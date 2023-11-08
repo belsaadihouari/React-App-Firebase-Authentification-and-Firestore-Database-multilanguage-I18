@@ -1,0 +1,5 @@
+Avant de commencer, veuillez créer un compte sur la console Firebase et ajouter les paramètres de votre projet Firebase à la variable firebaseConfig située dans le dossier Firebase.
+puis npm i.
+puis installer bibliotheque moment  npm install --save moment react-moment.
+puis firebase store.
+puis npm start.
